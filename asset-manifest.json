@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.6fe08b32.chunk.css",
+    "main.js": "/clickygame/static/js/main.80966121.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.80966121.chunk.js.map",
+    "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
+    "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/clickygame/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/clickygame/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.ba1588cb1da0b682e94e47b65b91790b.js": "/clickygame/precache-manifest.ba1588cb1da0b682e94e47b65b91790b.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.6fe08b32.chunk.css.map": "/clickygame/static/css/main.6fe08b32.chunk.css.map",
+    "static/media/Banner.css": "/clickygame/static/media/bg.9a30e6c6.png",
+    "static/media/candyman.jpg": "/clickygame/static/media/candyman.ac08e281.jpg",
+    "static/media/chucky.jpg": "/clickygame/static/media/chucky.1c8258c2.jpg",
+    "static/media/damien.jpg": "/clickygame/static/media/damien.b1b66dde.jpg",
+    "static/media/freddy.jpg": "/clickygame/static/media/freddy.7bb361da.jpg",
+    "static/media/ghostface.jpg": "/clickygame/static/media/ghostface.b83cad3b.jpg",
+    "static/media/hannibal.jpg": "/clickygame/static/media/hannibal.6dea1f65.jpg",
+    "static/media/jason.jpg": "/clickygame/static/media/jason.fee01341.jpg",
+    "static/media/leatherface.jpg": "/clickygame/static/media/leatherface.81001856.jpg",
+    "static/media/michael.jpg": "/clickygame/static/media/michael.26fe2fde.jpg",
+    "static/media/pennywise.png": "/clickygame/static/media/pennywise.a6cb4199.png",
+    "static/media/pinhead.jpg": "/clickygame/static/media/pinhead.1d3cece2.jpg",
+    "static/media/regan.jpg": "/clickygame/static/media/regan.2c3ae446.jpg"
+  }
+}
