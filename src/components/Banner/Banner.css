@@ -1,0 +1,29 @@
+.banner {
+  background-image: url('../../images/bg.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 280px;
+    text-align: center;
+    vertical-align: center;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+    margin-bottom: 20px;
+}
+
+.banner h1 {
+    padding-top: 100px;
+    font-size: 2em;
+    color: red;
+}
+
+.banner p {
+    font-size: 1.3em;
+    padding-bottom: 10px;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}
