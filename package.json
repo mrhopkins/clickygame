@@ -5,6 +5,7 @@
   "homepage": "https://mrhopkins.github.io/clickygame",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "querystringify": "^2.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
